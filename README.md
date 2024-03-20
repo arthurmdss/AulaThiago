@@ -1,4 +1,4 @@
-Arthur Macena 
-Gabriel de Souza
-Luiz Fillipy
-Lucas Cauã
+Arthur Macena,
+Gabriel de Souza,
+Luiz Fillipy,
+Lucas Cauã,
